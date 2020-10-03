@@ -1,1 +1,1 @@
-# Week-Number-2-Homework
+# Bootstrap CSS webpage description
