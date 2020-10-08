@@ -3,3 +3,12 @@ body {
     background-position: 50% 50%;
     background-repeat: repeat;
 }
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+.midimg {
+    margin-top: 2em;
+}
