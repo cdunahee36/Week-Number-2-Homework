@@ -5,9 +5,13 @@ body {
     margin-bottom: 60px;
 }
 
+/*this puts a margin above the text and below the about me header*/
+
 .card {
     margin-top: 1em;
 }
+
+/*this colors the text on the about page white*/
 
 p {
     color: white;
@@ -20,6 +24,8 @@ a {
 img {
     height: 400px;
 }
+
+/*this creates the sticky footer for the page*/
 
 html {
     position: relative;

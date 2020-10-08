@@ -1,3 +1,5 @@
+/* these styles put margins between the input boxes*/
+
 .btn-primary {
     margin-bottom: 1em;
 }
@@ -16,6 +18,8 @@ body {
     background-repeat: repeat;
     margin-bottom: 60px;
 }
+
+/*this creates the sticky footer for the page*/
 
 html {
     position: relative;
